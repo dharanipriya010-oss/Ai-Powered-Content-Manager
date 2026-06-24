@@ -45,28 +45,28 @@ git clone <repository-url>
 
  Open Project
 
-cd AI-CMS
+    cd AI-CMS
 
 Install Dependencies
 
-npm install
+  npm install
 
-Install Required Packages:
+  Install Required Packages:
  
-npm install react-router-dom
+  npm install react-router-dom
 
-npm install @google/generative-ai
+  npm install @google/generative-ai
 
 npm install jspdf
 
 
  ▶️ Run Project
 
-npm run dev
+   npm run dev
 
 Open:
 
-http://localhost:5173
+  http://localhost:5173
 
  🤖 AI Integration
 
@@ -106,6 +106,6 @@ Users can switch between:
 
  👨‍💻 Author
 
-DHARANI PRIYA A
-AI Powered Content Manager Project
-Built using React.js
+ DHARANI PRIYA 
+ AI Powered Content Manager Project
+ Built using React.js
