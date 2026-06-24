@@ -104,8 +104,4 @@ Users can switch between:
 - Dashboard
 - PDF Export
 
- 👨‍💻 Author
-
- DHARANI PRIYA 
- AI Powered Content Manager Project
- Built using React.js
+ 
