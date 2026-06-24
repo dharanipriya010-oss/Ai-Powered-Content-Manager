@@ -39,9 +39,9 @@ Storage
 
 ⚙️ Installation
 
-Clone Repository
+-Clone Repository
 
-git clone <repository-url>
+  git clone <repository-url>
 
  Open Project
 
@@ -57,10 +57,10 @@ Install Dependencies
 
   npm install @google/generative-ai
 
-npm install jspdf
+  npm install jspdf
 
 
- ▶️ Run Project
+▶️ Run Project
 
    npm run dev
 
@@ -82,11 +82,11 @@ const genAI = new GoogleGenerativeAI("YOUR_API_KEY");
 
 📄 PDF Export
 
-Dashboard supports exporting all posts as a PDF report.
+   Dashboard supports exporting all posts as a PDF report.
 
 Generated file:
 
-AI-CMS-Report.pdf
+   AI-CMS-Report.pdf
 
  🌙 Dark Mode
 
